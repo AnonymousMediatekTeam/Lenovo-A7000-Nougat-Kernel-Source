@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/aio_row.dtb: arch/arm64/boot/dts/.aio_row.dtb.dts.tmp arch/arm64/boot/dts/mt6752.dtsi /home/nikolay/aosp/Android7A7000/drivers/misc/mediatek/mach/mt6752/aio_row/dct/dct/cust_eint.dtsi arch/arm64/boot/dts/trusty.dtsi
